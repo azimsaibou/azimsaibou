@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
 [![Hits](https://hits.sh/github.com/azimsaibou/azimsaibou.svg)](https://hits.sh/github.com/azimsaibou/azimsaibou/)
+![](https://komarev.com/ghpvc/?username=azimsaibou&color=green)
 
 ### About Me 
 
@@ -18,18 +19,16 @@ Languages:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" title="PHP" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" title="HTML5" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" title="CSS3" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="40" title="Markdown" alt="Markdown"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="40" title="Markdown" alt="Markdown"/> 
+</div> 
 
-
-</div>
 Frameworks/Libraries:<br>
 <div>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="40" width="40" title="React" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" title="Vue 3" alt="Vue 3"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" width="40" title="Laravel" alt="Laravel"/>
+<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" height="40" width="40" title="Bootstrap" alt="Bootstrap"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" title="Tailwind" alt="Tailwind"/>
-<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" height="40" width="40" title="Bootstrap" alt="Bootstrap"/>
 </div>
 
 Tools:<br>
